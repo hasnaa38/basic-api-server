@@ -17,10 +17,14 @@ The following CRUD operations can be performed on both tables using `/food` and 
 
 ## Links
 
-Heroku deployment: https://hasnaa-basic-api-server.herokuapp.com/
-Food api link: https://hasnaa-basic-api-server.herokuapp.com/food
-Clothes api linkL https://hasnaa-basic-api-server.herokuapp.com/clothes
-Pull requests from dev to main: https://github.com/hasnaa38/basic-api-server/pull/1
+* Heroku deployment: https://hasnaa-basic-api-server.herokuapp.com/
+* Food api link: https://hasnaa-basic-api-server.herokuapp.com/food
+* Clothes api linkL https://hasnaa-basic-api-server.herokuapp.com/clothes
+* Pull requests from dev to main: https://github.com/hasnaa38/basic-api-server/pull/1
+
+get request to Food table:
+
+![food-table.png](./food-table.png)
 
 ## UML
 
