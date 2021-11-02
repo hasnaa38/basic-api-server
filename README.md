@@ -24,7 +24,7 @@ The following CRUD operations can be performed on both tables using `/food` and 
 
 get request to Food table:
 
-![food-table.png](./food-table.png)
+![food-table.png](./food-table.PNG)
 
 ## UML
 
