@@ -18,8 +18,11 @@ The following CRUD operations can be performed on both tables using `/food` and 
 ## Links
 
 * Heroku deployment: https://hasnaa-basic-api-server.herokuapp.com/
+* Alternative link: https://basic-api-server-checking.herokuapp.com/
 * Food api link: https://hasnaa-basic-api-server.herokuapp.com/food
+* Alternative link food api: https://basic-api-server-checking.herokuapp.com/food
 * Clothes api linkL https://hasnaa-basic-api-server.herokuapp.com/clothes
+* Alternative link clothes api: https://basic-api-server-checking.herokuapp.com/clothes
 * Pull requests from dev to main: https://github.com/hasnaa38/basic-api-server/pull/1
 
 get request to Food table:
